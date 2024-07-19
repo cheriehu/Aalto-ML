@@ -183,7 +183,7 @@ size of the dataset is large.
 
 The errors in the training, validation, and test set can be calculated
 in the form of the accuracy score, which measures the ratio of correct
-predictions over the total number of instances evaluated.
+predictions over the total number of instances evaluated. This table shows the accuracy of the various CNN architectures when tested using the test dataset.
 
 <p align="center">
 
@@ -194,8 +194,6 @@ predictions over the total number of instances evaluated.
   |   cnn2      |     99.59         |  3\*(conv2d, maxpooling), flatten, dense, dense |
   |   cnn3      |     99.52         |                     VGG-like                    |
 
-  <p align="center"> Accuracy of the various CNN architectures when tested using the test
-  dataset. </p>
 </p>
 
 For the logistic regression model, the training accuracy score is 94.6%
