@@ -281,7 +281,7 @@ would likely enable robust model performance in the real world.
 
 <a id="4">[4]</a> Ajitesh Kumar. Keras – categorical cross entropy loss function, 2020. https://vitalflux.com/keras-categorical-cross-entropy-loss-function/ [Accessed: 22-09-23].
 
-<a id="5">[5]</a>Felipe A. Moreno. Sparse categorical cross-entropy vs categorical cross-entropy, 2021. https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-ii-hyper-//fmorenovr.medium.com/sparse-categorical-cross-entropy-vs-categorical-cross-entropy-ea01d0392d28
+<a id="5">[5] </a>Felipe A. Moreno. Sparse categorical cross-entropy vs categorical cross-entropy, 2021. https://towardsdatascience.com/a-guide-to-an-efficient-way-to-build-neural-network-architectures-part-ii-hyper-//fmorenovr.medium.com/sparse-categorical-cross-entropy-vs-categorical-cross-entropy-ea01d0392d28
 [Accessed: 10-10-23].
 
 <a id="6">[6]</a> Shashank Ramesh. A guide to an efficient way to build neural network
